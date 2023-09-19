@@ -1,4 +1,4 @@
-import { ForecastListType } from '../../types';
+import { ForecastListType } from '../types';
 
 export const forecastList: ForecastListType[] = [
   {
